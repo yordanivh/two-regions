@@ -3,7 +3,7 @@ This repo contains code that can create resources in two different regions in AW
 
 # What this repo does
 
-This repo's code will create two aws instance in two different regions at the same time. This is accompplished by using a module and a prvodier is defined each time the module is called.
+This repo's code will create two AWS instances in two different regions at the same time. This is accomplished by using a module and a prvodier is defined each time the module is called.
 
 # Why use this repo
 
